@@ -14,8 +14,8 @@ namespace gitIgnoreEx.Controllers
             List<Student> objstu = new List<Student>()
             {
                 new Student{SId=1,SName="Palak",SRollNo=101},
-                 new Student{SId=2,SName="Kareena",SRollNo=102},
-                  new Student{SId=3,SName="Pushp",SRollNo=103},
+                new Student{SId=2,SName="Kareena",SRollNo=102},
+                new Student{SId=3,SName="Pushp",SRollNo=103}
             };
             return View(objstu);
         }

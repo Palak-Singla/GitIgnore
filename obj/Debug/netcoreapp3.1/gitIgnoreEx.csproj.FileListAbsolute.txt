@@ -106,3 +106,4 @@ E:\webapp\obj\Debug\netcoreapp3.1\gitIgnoreEx.Views.pdb
 E:\webapp\obj\Debug\netcoreapp3.1\gitIgnoreEx.csproj.CopyComplete
 E:\webapp\obj\Debug\netcoreapp3.1\gitIgnoreEx.dll
 E:\webapp\obj\Debug\netcoreapp3.1\gitIgnoreEx.pdb
+E:\webapp\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
